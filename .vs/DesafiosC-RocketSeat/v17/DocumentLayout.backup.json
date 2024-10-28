@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\DesafiosC-RocketSeat\\",
+  "WorkspaceRootPath": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\Desktop\\DesafiosC-RocketSeat\\Desafios\\Desafios\\Desafio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafios\\Desafios\\Desafio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio06\\Desafio06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio06\\Desafio06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio05\\Desafio05\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio05\\Desafio05\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio03\\Desafio03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio03\\Desafio03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Desafio01.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\DesafiosC-RocketSeat\\Desafios\\Desafios\\Desafio01.cs",
-              "RelativeDocumentMoniker": "Desafios\\Desafios\\Desafio01.cs",
-              "ToolTip": "C:\\Users\\rodri\\Desktop\\DesafiosC-RocketSeat\\Desafios\\Desafios\\Desafio01.cs",
-              "RelativeToolTip": "Desafios\\Desafios\\Desafio01.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio06\\Desafio06\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio06\\Desafio06\\Program.cs",
+              "ToolTip": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio06\\Desafio06\\Program.cs",
+              "RelativeToolTip": "Desafio06\\Desafio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:26:07.105Z",
+              "WhenOpened": "2024-10-28T13:07:49.985Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio05\\Desafio05\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio05\\Desafio05\\Program.cs",
+              "ToolTip": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio05\\Desafio05\\Program.cs",
+              "RelativeToolTip": "Desafio05\\Desafio05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:57:34.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio03\\Desafio03\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio03\\Desafio03\\Program.cs",
+              "ToolTip": "C:\\Users\\Timeware 027\\Desktop\\DesafiosC-RocketSeat\\Desafio03\\Desafio03\\Program.cs",
+              "RelativeToolTip": "Desafio03\\Desafio03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:26:00.446Z"
             }
           ]
         }
