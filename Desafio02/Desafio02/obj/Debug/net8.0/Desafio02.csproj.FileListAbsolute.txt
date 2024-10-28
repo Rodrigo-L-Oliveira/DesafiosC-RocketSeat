@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.exe
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.deps.json
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.runtimeconfig.json
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.dll
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\bin\Debug\net8.0\Desafio02.pdb
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.AssemblyInfo.cs
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.sourcelink.json
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.dll
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\refint\Desafio02.dll
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.pdb
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\Desafio02.genruntimeconfig.cache
+C:\Users\rodri\Desktop\DesafiosC-RocketSeat\Desafio02\Desafio02\obj\Debug\net8.0\ref\Desafio02.dll
