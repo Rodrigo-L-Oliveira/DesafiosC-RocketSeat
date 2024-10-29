@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Desafio01\\Desafio01",
-    "\\Desafio02\\Desafio02",
-    "\\Desafio03",
-    "\\Desafio03\\Desafio03",
-    "\\Desafio04\\Desafio04",
-    "\\Desafio05",
-    "\\Desafio05\\Desafio05",
-    "\\Desafio06",
-    "\\Desafio06\\Desafio06"
+    "\\bookStoreAPI",
+    "\\bookStoreAPI\\Controllers",
+    "\\bookStoreAPI\\Data",
+    "\\bookStoreAPI\\Models",
+    "\\Nivel01\\Desafio04",
+    "\\Nivel01\\Desafio04\\Desafio04",
+    "\\Nivel01\\Desafio05",
+    "\\Nivel01\\Desafio05\\Desafio05",
+    "\\Nivel01\\Desafio06"
   ],
+  "SelectedNode": "\\bookStoreAPI\\Models\\Book.cs",
   "PreviewInSolutionExplorer": false
 }
